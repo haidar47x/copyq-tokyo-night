@@ -1,10 +1,10 @@
-<br />
+## Tokyo Night for CopyQ
+
 This repository contains Tokyo Night theme for CopyQ clipboard manager.
-<br />
 
 <p align="center"><img src="./demo.png" alt="Demo screenshot" /></p>
 
-<br />
+<hr>
 
 ## Installation
 
